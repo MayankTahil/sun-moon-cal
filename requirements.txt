@@ -1,0 +1,6 @@
+urllib3==1.26.6
+geopy
+requests
+suncalcPy
+Nominatim
+pandas
